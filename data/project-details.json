@@ -2,7 +2,7 @@
   {
     "id": "1",
     "projectName": "Texting using steganography",
-    "imgPath": "/images/steg.jpeg",
+    "imgPath": "images/steg.jpeg",
     "projectDescription": "p2p real time texting app using LSB Steganography, Embedding each encrypted message in a randomly generated photo and sending the photo over the internet. the reciever extracts the message and then decrypts it",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/steg-texting-app",
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "projectName": "Stock Market Management",
-    "imgPath": "/images/stock.jpeg",
+    "imgPath": "images/stock.jpeg",
     "projectDescription": "A program to track employees,goods, orders, and the branches with database and nodejs. Nextjs used as a frontend framework",
     "playable": false,
     "githubLink": "https://github.com/saityalcn/stock-management",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "projectName": "HUMAN RESOURCE APPLICATION",
-    "imgPath": "/images/hr.jpeg",
+    "imgPath": "images/hr.jpeg",
     "projectDescription": "Human Resource Application implemented in Java. A program to  add & delete employees, salary functionality, adjust permisions for employees etc. Java swing is used as GUI",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/HR",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "projectName": "NERDLE",
-    "imgPath": "/images/nerdle.png",
+    "imgPath": "images/nerdle.png",
     "projectDescription": "Nerdle implemented in JAVA, supports equations of length 7,8 & 9 choosen randomly during play-time. Java Swing is used for GUI",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/nerdle-game",
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "projectName": "SNAKE GAME",
-    "imgPath": "/images/snake.png",
+    "imgPath": "images/snake.png",
     "projectDescription": "A Nokia 3310 Snake Game implemented in JS.  HTML canvas, CSS and Vanilla Javascript Used in this project",
     "playable": true,
     "githubLink": "https://github.com/baselkelziye/Vanilla-JS/tree/main/Snake",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "projectName": "XOX",
-    "imgPath": "/images/xox.png",
+    "imgPath": "images/xox.png",
     "projectDescription": "A 2 players XOX game implemented in JS. HTML, CSS and vanilla javascript used in this project",
     "playable": true,
     "githubLink": "https://github.com/baselkelziye/Vanilla-JS/tree/main/XOX",
@@ -57,7 +57,7 @@
   {
     "id": "7",
     "projectName": "NUMERICAL METHODS",
-    "imgPath": "/images/numerical.jpeg",
+    "imgPath": "images/numerical.jpeg",
     "projectDescription": "Various numerical methods implemented in C.",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/numerical-methods",
@@ -66,7 +66,7 @@
   {
     "id": "8",
     "projectName": "DATA STRUCTURES & ALGORITHMS",
-    "imgPath": "/images/dsa.png",
+    "imgPath": "images/dsa.png",
     "projectDescription": "Implementing data structes with related algorithms in C.",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/DSA",
