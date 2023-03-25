@@ -22,7 +22,7 @@ const HomePage = () => {
             style={{ backgroundColor: 'inherit', boxShadow: 'none' }}
           >
             <Image
-              src="/images/newPersonalPic.png"
+              src="images/newPersonalPic.png"
               size="medium"
               centered
               style={{ backgroundColor: 'inherit' }}
