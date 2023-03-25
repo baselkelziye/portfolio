@@ -41,14 +41,13 @@ const ProjectDetail = () => {
           </a>
           {proje.playable ? (
             <Link
-              href={`http://localhost:3000/${proje.routeLink}/${proje.routeLink}.html`}
+              href={`${proje.routeLink}/${proje.routeLink}.html`}
               target="_blank"
             >
               <Button icon name="play" labelPosition="left" color="green">
                 <Icon name="play" />
                 Try it!
               </Button>
-              {/* </a> */}
             </Link>
           ) : null}
         </Grid.Column>
