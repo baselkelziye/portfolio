@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "projectName": "Texting using steganography",
+    "imgPath": "/images/steg.jpeg",
+    "projectDescription": "p2p real time texting app using steganography"
+  },
+  {
+    "id": "2",
+    "projectName": "Stock Market Management",
+    "imgPath": "/images/stock.jpeg",
+    "projectDescription": "tracking the stock of a market using database"
+  },
+  {
+    "id": "3",
+    "projectName": "HUMAN RESOURCE APPLICATION",
+    "imgPath": "/images/hr.jpeg",
+    "projectDescription": "Human Resource Application in JAVA."
+  },
+  {
+    "id": "4",
+    "projectName": "NERDLE",
+    "imgPath": "/images/nerdle.png",
+    "projectDescription": "Nerdle Game Implemented In JAVA"
+  },
+  {
+    "id": "5",
+    "projectName": "SNAKE GAME",
+    "imgPath": "/images/snake.png",
+    "projectDescription": " Nokia 3310's Snake Game In JS"
+  },
+  {
+    "id": "6",
+    "projectName": "XOX",
+    "imgPath": "/images/xox.png",
+    "projectDescription": "2 Players XOX Game In JS"
+  },
+
+  {
+    "id": "7",
+    "projectName": "NUMERICAL METHODS",
+    "imgPath": "/images/numerical.jpeg",
+    "projectDescription": "Various Numerical Methods Implemented in C."
+  },
+  {
+    "id": "8",
+    "projectName": "DATA STRUCTURES & ALGORITHMS",
+    "imgPath": "/images/dsa.png",
+    "projectDescription": "Data Structures & Algorithms  in C."
+  },
+
+  {
+    "id": "9",
+    "projectName": "MINI SOLIDITY PROJECTS",
+    "imgPath": "/images/solidity.png",
+    "projectDescription": "ERC20 Token & Ethereum native wallet in Solidity"
+  },
+  {
+    "id": "10",
+    "projectName": "LEETCODE",
+    "imgPath": "/images/leetcode.png",
+    "projectDescription": "Problems I Solve in LeetCode"
+  }
+]
