@@ -5,7 +5,7 @@ const NavigationBar = () => {
   return (
     <Menu style={{ backgroundColor: 'orange' }} className="myNavBar" stackable>
       <Menu.Item position="left">
-        <a href="/home">
+        <a href="home">
           <Icon name="home" size="big" link></Icon>
         </a>
       </Menu.Item>
@@ -17,7 +17,7 @@ const NavigationBar = () => {
           disabled
         ></Menu.Item>
       </a>
-      <a href="/projects">
+      <a href="projects">
         <Menu.Item name="projects" link className="myMenuItem"></Menu.Item>
       </a>
       <a>
