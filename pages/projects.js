@@ -18,7 +18,6 @@ const render_projects = (projects) => {
           link
           style={{ height: '15rem', marginBottom: '5.5rem' }}
           key={proje.id}
-          // href="/home"
         >
           <Card.Content style={{ backgroundColor: 'purple' }}>
             <Card.Header

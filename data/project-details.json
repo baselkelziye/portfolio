@@ -6,7 +6,7 @@
     "projectDescription": "p2p real time texting app using LSB Steganography, Embedding each encrypted message in a randomly generated photo and sending the photo over the internet. the reciever extracts the message and then decrypts it",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/steg-texting-app",
-    "routeLink": "home"
+    "routeLink": "index"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "projectDescription": "A program to track employees,goods, orders, and the branches with database and nodejs. Nextjs used as a frontend framework",
     "playable": false,
     "githubLink": "https://github.com/saityalcn/stock-management",
-    "routeLink": "home"
+    "routeLink": "index"
   },
   {
     "id": "3",
@@ -24,7 +24,7 @@
     "projectDescription": "Human Resource Application implemented in Java. A program to  add & delete employees, salary functionality, adjust permisions for employees etc. Java swing is used as GUI",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/HR",
-    "routeLink": "home"
+    "routeLink": "index"
   },
   {
     "id": "4",
@@ -33,7 +33,7 @@
     "projectDescription": "Nerdle implemented in JAVA, supports equations of length 7,8 & 9 choosen randomly during play-time. Java Swing is used for GUI",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/nerdle-game",
-    "routeLink": "home"
+    "routeLink": "index"
   },
   {
     "id": "5",
@@ -61,7 +61,7 @@
     "projectDescription": "Various numerical methods implemented in C.",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/numerical-methods",
-    "routeLink": "home"
+    "routeLink": "index"
   },
   {
     "id": "8",
@@ -70,7 +70,7 @@
     "projectDescription": "Implementing data structes with related algorithms in C.",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/DSA",
-    "routeLink": "home"
+    "routeLink": "index"
   },
 
   {
@@ -80,7 +80,7 @@
     "projectDescription": "Implemented an ERC20 token and  ethereum wallet in solidity",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/Solidity",
-    "routeLink": "home"
+    "routeLink": "index"
   },
   {
     "id": "10",
@@ -89,6 +89,6 @@
     "projectDescription": "Some problems that i solved in LeetCode",
     "playable": false,
     "githubLink": "https://github.com/baselkelziye/LeetCode",
-    "routeLink": "home"
+    "routeLink": "index"
   }
 ]
